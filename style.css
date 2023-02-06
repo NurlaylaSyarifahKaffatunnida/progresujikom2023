@@ -1,0 +1,16 @@
+h1,h2 {
+    color:#017001;
+}
+/* body {
+    background-color: red;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
